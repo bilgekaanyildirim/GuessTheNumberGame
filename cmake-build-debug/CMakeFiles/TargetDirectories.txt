@@ -1,0 +1,3 @@
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS204/HWs/HW6/GuessTheNumberGame/cmake-build-debug/CMakeFiles/GuessTheNumberGame.dir
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS204/HWs/HW6/GuessTheNumberGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS204/HWs/HW6/GuessTheNumberGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
